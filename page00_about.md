@@ -19,4 +19,4 @@ sidebar: true
 {{entry[1]}}
 {% endif %}
 {% endif %}
-{% endfor %
+{% endfor %}
